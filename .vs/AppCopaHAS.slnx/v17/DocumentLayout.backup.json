@@ -30,16 +30,12 @@
               "Title": "CadastroJogo.xaml",
               "DocumentMoniker": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
               "RelativeDocumentMoniker": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
-              "ToolTip": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml*",
-              "RelativeToolTip": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml*",
+              "ToolTip": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "RelativeToolTip": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-08T20:24:03.045Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -51,8 +47,7 @@
               "RelativeToolTip": "AppCopaHAS\\ViewModels\\TabelaViewModel.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T20:20:53.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T20:20:53.217Z"
             },
             {
               "$type": "Document",
@@ -64,8 +59,11 @@
               "RelativeToolTip": "AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAAvwL8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T20:02:13.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T20:02:13.407Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
