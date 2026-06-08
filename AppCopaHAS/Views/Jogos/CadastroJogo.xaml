@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCopaHAS.Views.Jogos.CadastroJogo"
+             Title="Jogos">
+
+    <ContentPage.Content>
+        <ScrollView>
+            <VerticalStackLayout Padding="15" Spacing="10">
+
+                <!-- Data -->
+                <Label Text="Data" FontSize="Medium" />
+                <DatePicker Date="{Binding DataSelecionada}" />
+
+                <!-- Hora -->
+                <Label Text="Hora" FontSize="Medium" />
+                <TimePicker Time="{Binding HoraSelecionada}" />
+
+                <!-- Exibe data+hora combinadas (somente leitura) -->
+                <Label Text="{Binding DataHora}" />
+                <!--Apenas para apresentar os dados selecionados-->
+
+                <!-- Estádio -->
+                <Picker Title="---Estádio---"
+                        SelectedItem="{Binding EstadioSelecionado}"
+                        ItemsSource="{Binding Estadios}"
+                        ItemDisplayBinding="{Binding Nome}" />
+
+                <!-- Seleção 1 (mandante) e gols -->
+                <HorizontalStackLayout>
+                    <Picker Title="---Seleção 1---"
+                            SelectedItem="{Binding Selecao1}"
+                            ItemsSource="{Binding Selecoes}"
+                            ItemDisplayBinding="{Binding Pais}" />
+                    <Entry Text="{Binding GolsSelecao1}"
+                           FontSize="Medium"
+                           Keyboard="Numeric" />
+                </HorizontalStackLayout>
+
+                <!-- Seleção 2 (visitante) e gols -->
+                <HorizontalStackLayout>
+                    <Picker Title="---Seleção 2---"
+                            SelectedItem="{Binding Selecao2}"
+                            ItemsSource="{Binding Selecoes}"
+                            ItemDisplayBinding="{Binding Pais}" />
+                    <Entry Text="{Binding GolsSelecao2}"
+                           FontSize="Medium"
+                           Keyboard="Numeric" />
+                </HorizontalStackLayout>
+
+                <!-- Botão salvar vinculado ao SalvarCommand -->
+                <Button Text="Salvar"
+                        Command="{Binding SalvarCommand}" />
+
+            </VerticalStackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>

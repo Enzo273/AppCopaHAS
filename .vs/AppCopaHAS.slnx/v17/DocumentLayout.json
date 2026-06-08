@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5EDB0-BE85-BD9D-0D3C-228AF9355DE2}|AppCopaHAS\\AppCopaHAS.csproj|c:\\users\\user\\downloads\\appcopahas-main\\appcopahas-main\\appcopahas\\views\\jogos\\cadastrojogo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0EB5EDB0-BE85-BD9D-0D3C-228AF9355DE2}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\views\\jogos\\cadastrojogo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5EDB0-BE85-BD9D-0D3C-228AF9355DE2}|AppCopaHAS\\AppCopaHAS.csproj|c:\\users\\user\\downloads\\appcopahas-main\\appcopahas-main\\appcopahas\\viewmodels\\jogos\\jogoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5EDB0-BE85-BD9D-0D3C-228AF9355DE2}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\viewmodels\\jogos\\jogoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB5EDB0-BE85-BD9D-0D3C-228AF9355DE2}|AppCopaHAS\\AppCopaHAS.csproj|c:\\users\\user\\downloads\\appcopahas-main\\appcopahas-main\\appcopahas\\viewmodels\\tabelaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB5EDB0-BE85-BD9D-0D3C-228AF9355DE2}|AppCopaHAS\\AppCopaHAS.csproj|solutionrelative:appcopahas\\viewmodels\\tabelaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroJogo.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "RelativeDocumentMoniker": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "RelativeToolTip": "AppCopaHAS\\Views\\Jogos\\CadastroJogo.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T20:24:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TabelaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\ViewModels\\TabelaViewModel.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\ViewModels\\TabelaViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\ViewModels\\TabelaViewModel.cs",
+              "RelativeToolTip": "AppCopaHAS\\ViewModels\\TabelaViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:20:53.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JogoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
+              "RelativeDocumentMoniker": "AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\AppCopaHAS-main\\AppCopaHAS-main\\AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
+              "RelativeToolTip": "AppCopaHAS\\ViewModels\\Jogos\\JogoViewModel.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAvwL8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:02:13.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

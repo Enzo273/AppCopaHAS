@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell x:Class="AppCopaHAS.AppShell"
+       xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:jogos="clr-namespace:AppCopaHAS.Views.Jogos"
+       Shell.FlyoutBehavior="Flyout">
+
+    <!-- Cadastro de Jogos -->
+    <ShellContent Title="Jogos"
+                  Route="cadastrojogo"
+                  ContentTemplate="{DataTemplate jogos:CadastroJogo}" />
+
+    <!-- Tabela de Jogos – passo 7 -->
+    <ShellContent Title="Tabela"
+                  Route="tabela"
+                  ContentTemplate="{DataTemplate jogos:TabelaView}" />
+
+</Shell>
